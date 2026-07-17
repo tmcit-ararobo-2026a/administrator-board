@@ -581,7 +581,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "admin-boardv1.1",
       "specctra_dsn": "",
       "vrml": ""
     },
